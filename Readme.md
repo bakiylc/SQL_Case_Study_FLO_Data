@@ -1,4 +1,4 @@
-**FLO DATA SETİ İLE SQL ÇALIŞMASI**
+# FLO DATA SETİ İLE SQL ÇALIŞMASI
 
 Veri seti Flo’dan son alışverişlerini 2020 - 2021 yıllarında OmniChannel (hem online hem offline alışveriş yapan)
 olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
@@ -9,7 +9,7 @@ olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edile
 
 
 
-**DEĞİŞKENLER**
+# DEĞİŞKENLER
 - master_id 
 - order_channel
 - last_order_channel
@@ -25,7 +25,7 @@ olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edile
 - store_type
 
 
-**SORULAR**
+# SORULAR
 1. Customers isimli bir veri tabanı ve verilen veri setindeki değişkenleri içerecek FLO isimli bir tablo oluşturunuz.
 2. Kaç farklı müşterinin alışveriş yaptığını gösterecek sorguyu yazınız.
 3. Toplam yapılan alışveriş sayısı ve ciroyu getirecek sorguyu yazınız.

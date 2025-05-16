@@ -3,8 +3,8 @@
 Veri seti Flo’dan son alışverişlerini 2020 - 2021 yıllarında OmniChannel (hem online hem offline alışveriş yapan)
 olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
 
-- **13 Adet Değişken vardır** 
-- **19.945 Gözlem**
+- **13 Adet Değişken** 
+- **19.945 Gözlem vardır.**
 
 
 
